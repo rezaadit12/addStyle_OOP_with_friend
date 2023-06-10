@@ -1,0 +1,59 @@
+body {
+  background: linear-gradient(to right, #ff99ff 0%, #99ccff 100%);
+    background-position: cover;
+    height: 100vh;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+  }
+  
+  table {
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: center;
+  }
+
+  .tableWahid{
+    background-color: #ACBCFF
+  }
+
+  .tableisnain{
+    background-color: #B799FF;
+  }
+
+  .tableHapus{
+    background-color: #ff6262;
+  }
+  
+  .kolomJudul{
+    background-color: #3e5e77;
+  }
+
+  .mainJudul{
+    background-image:url(DapperArcticGuineapig-size_restricted.gif);
+  }
+    /* th {
+      background-color: #333333;
+      color: #ffffff;
+    } */
+  
+  /* tr:nth-child(even) {
+    background-color: #424242;
+  }
+  
+  tr:nth-child(odd) {
+    background-color: #383838;
+  } */
+  
+  td a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  td a:hover {
+    text-decoration: underline;
+  }
+  
+  
